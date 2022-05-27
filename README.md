@@ -1,5 +1,8 @@
-# Welcome
-You've probably came to rip the bot off. 
-**All the code can be found on the [replit](https://replit.com/@sparkfire298/sparkfirebot) because GitHub doesn't like uploading bots**
+# sparkfirebot
+**sparkfirebot is a multipurpose bot experiment.**
 
-# If you attempt to clone the bot, please give me credit.
+# What happened to this repository?
+- I have taken it down because the bot kept getting stolen without credit
+
+# Is the bots code somewhere else?
+- No.
